@@ -12,8 +12,8 @@
 
 .texto-superior {
     position: absolute;
-    top: 22%;
-    left: 47%;
+    top: 24%;
+    left: 44%;
     z-index: 10;
     color: rgb(34, 34, 34);
     max-width: 520px;
@@ -22,9 +22,12 @@
     font-size: clamp(2.5rem, 5vw, 5rem);
     font-weight: 700;
     line-height: 1;
+
     margin: 0;
     letter-spacing: -2px;
     text-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+    
+
 }
 
 .subtitulo {
